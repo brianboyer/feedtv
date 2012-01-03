@@ -1,0 +1,2 @@
+#!/bin/sh
+curl -s -S -F "mysubmit=Delete" -F "archive=" -F "passwd=" http://192.168.1.4/plugin_install; rm ../feedtv.zip; zip ../feedtv.zip -r -9 .; curl -s -S -F "mysubmit=Install" -F "archive=@../feedtv.zip" -F "passwd=" http://192.168.1.4/plugin_install
