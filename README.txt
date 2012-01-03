@@ -1,7 +1,14 @@
-To use this stuff:
+Getting started:
 
 * Put your Roku in developer mode: Home Home Home Up Up Left Right Left Right Left
 * The build script will make a zip file and push it out to the Roku. You'll probably need to change the IP address.
+* Reference: http://c1807832.r32.cf0.rackcdn.com/ComponentReference_v41.pdf
+* Forum: http://forums.roku.com/viewforum.php?f=34
+* SDK and stuff: http://www.roku.com/developer
+
+What's the point?
+
+The user experience of on-demand video is miserable. Instead of making ten choices before you can actually watch something, can't I just watch the TV? This little project is my attempt to invert the UI, putting streaming content first, and choices second.
 
 Features:
 
