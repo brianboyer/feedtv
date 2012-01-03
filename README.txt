@@ -1,3 +1,8 @@
+To use this stuff:
+
+* Put your Roku in developer mode: Home Home Home Up Up Left Right Left Right Left
+* The build script will make a zip file and push it out to the Roku. You'll probably need to change the IP address.
+
 Features:
 
 * X instant play at beginning
